@@ -1,1 +1,1 @@
-Les buts sont de déterminer le prix d'une montre à partir de ses caractéristiques et les caratéristiques les plus influentes sur le prix d'une montre.
+L'objectif est de déterminer le prix d'une montre en se basant sur ses caractéristiques, et d'identifier les caractéristiques qui ont le plus d'influence sur son prix.
